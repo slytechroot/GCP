@@ -1,0 +1,31 @@
+  # GCP hacking studylist
+
+ # GCP hacking studylist
+https://rhinosecuritylabs.com/gcp/iam-privilege-escalation-gcp-cloudbuild/
+https://rhinosecuritylabs.com/gcp/privilege-escalation-google-cloud-platform-part-1/
+https://rhinosecuritylabs.com/cloud-security/privilege-escalation-google-cloud-platform-part-2/
+https://medium.com/@tomaszwybraniec/google-cloud-platform-pentest-notes-service-accounts-b960dc59d93a
+https://www.youtube.com/watch?v=motZouxkVZ0
+https://www.youtube.com/watch?v=AwXswDg-rKc
+https://www.youtube.com/watch?v=E1Yz4ofKEz0
+https://desi-jarvis.medium.com/gcphound-a-swiss-army-knife-offensive-toolkit-for-google-cloud-platform-gcp-fb9e18b959b4
+https://medium.com/@richardson.brad/gcphound-this-hound-has-learned-some-new-tricks-8a53559dc0dd
+https://thunder-ctf.cloud/
+https://gcpgoat.joshuajebaraj.com/getting-started
+https://book.hacktricks.xyz/cloud-security/gcp-security/gcp-buckets-enumeration
+https://medium.com/@richardson.brad/how-red-team-does-accounting-using-google-sheets-for-c2-1d9f634acf57
+
+## Vids
+https://www.youtube.com/results?search_query=gcp++hacking
+https://www.youtube.com/watch?v=lwUe-valj7U
+https://www.youtube.com/watch?v=Ml09R38jpok
+https://www.youtube.com/watch?v=FJRFIKxoKhQ
+
+## tools
+https://github.com/justmorpheus/gcp-inspector
+https://github.com/RyanJarv/awesome-cloud-sec
+https://github.com/nccgroup/ScoutSuite
+https://github.com/lyft/cartography
+https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation
+https://github.com/RhinoSecurityLabs/GCPBucketBrute
+https://github.com/RhinoSecurityLabs/ccat
