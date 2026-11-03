@@ -1,0 +1,21 @@
+Types Of Operators In Dorks 🔗
+
+inurl: 
+Searches for a single word or phrase in the URL of the search result.
+
+site:
+The results come from a specified site.
+
+intitle:
+Searches for the single word or phase in the title of the search result.
+
+intext:
+This Dork is used to search for pages & websites that contain the specific word that you are searching for.
+
+filetype:
+This searches a specific file type.
+
+cache:
+This is used to lookup for cached pages by Google.
+
+You can simply join more than one dork to make results even better.
